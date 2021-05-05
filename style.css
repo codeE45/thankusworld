@@ -1,5 +1,5 @@
 body
- { background-image:url("resource/6.gif");
+ { background: url("resource/6.gif") no-repeat;
    background-attachment:fixed;
    background-size:cover;
    opacity:0.85;
